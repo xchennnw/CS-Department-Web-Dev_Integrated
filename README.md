@@ -1,4 +1,4 @@
-# CS307_Project_Integrated
+# CS Department Website Redesign & Implementation_Integrated
 How to run:
 1. clone
 2. --npm install
